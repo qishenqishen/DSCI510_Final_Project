@@ -103,6 +103,7 @@ github_repo_structure/
 │   ├── clean_data.py
 │   ├── run_analysis.py
 │   └── visualize_results.py
+│   └── utils
 └── results/
     ├── Visualizations.ipynb
     └── final_report.pdf
