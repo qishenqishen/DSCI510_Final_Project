@@ -1,0 +1,643 @@
+name,rank,year,genre,duration,rating,url,runtime_min,decade
+The Shawshank Redemption,1,1994,Drama,2h 22m,9.3,https://www.imdb.com/title/tt0111161/,142.0,1990
+The Godfather,2,1972,Crime,2h 55m,9.2,https://www.imdb.com/title/tt0068646/,175.0,1970
+The Godfather,2,1972,Drama,2h 55m,9.2,https://www.imdb.com/title/tt0068646/,175.0,1970
+The Dark Knight,3,2008,Action,2h 32m,9.1,https://www.imdb.com/title/tt0468569/,152.0,2000
+The Dark Knight,3,2008,Crime,2h 32m,9.1,https://www.imdb.com/title/tt0468569/,152.0,2000
+The Dark Knight,3,2008,Drama,2h 32m,9.1,https://www.imdb.com/title/tt0468569/,152.0,2000
+The Godfather Part II,4,1974,Crime,3h 22m,9.0,https://www.imdb.com/title/tt0071562/,202.0,1970
+The Godfather Part II,4,1974,Drama,3h 22m,9.0,https://www.imdb.com/title/tt0071562/,202.0,1970
+12 Angry Men,5,1957,Crime,1h 36m,9.0,https://www.imdb.com/title/tt0050083/,96.0,1950
+12 Angry Men,5,1957,Drama,1h 36m,9.0,https://www.imdb.com/title/tt0050083/,96.0,1950
+The Lord of the Rings: The Return of the King,6,2003,Adventure,3h 21m,9.0,https://www.imdb.com/title/tt0167260/,201.0,2000
+The Lord of the Rings: The Return of the King,6,2003,Drama,3h 21m,9.0,https://www.imdb.com/title/tt0167260/,201.0,2000
+The Lord of the Rings: The Return of the King,6,2003,Fantasy,3h 21m,9.0,https://www.imdb.com/title/tt0167260/,201.0,2000
+Schindler&apos;s List,7,1993,Biography,3h 15m,9.0,https://www.imdb.com/title/tt0108052/,195.0,1990
+Schindler&apos;s List,7,1993,Drama,3h 15m,9.0,https://www.imdb.com/title/tt0108052/,195.0,1990
+Schindler&apos;s List,7,1993,History,3h 15m,9.0,https://www.imdb.com/title/tt0108052/,195.0,1990
+The Lord of the Rings: The Fellowship of the Ring,8,2001,Adventure,2h 58m,8.9,https://www.imdb.com/title/tt0120737/,178.0,2000
+The Lord of the Rings: The Fellowship of the Ring,8,2001,Drama,2h 58m,8.9,https://www.imdb.com/title/tt0120737/,178.0,2000
+The Lord of the Rings: The Fellowship of the Ring,8,2001,Fantasy,2h 58m,8.9,https://www.imdb.com/title/tt0120737/,178.0,2000
+Pulp Fiction,9,1994,Crime,2h 34m,8.8,https://www.imdb.com/title/tt0110912/,154.0,1990
+Pulp Fiction,9,1994,Drama,2h 34m,8.8,https://www.imdb.com/title/tt0110912/,154.0,1990
+"Il buono, il brutto, il cattivo",10,1966,Adventure,2h 58m,8.8,https://www.imdb.com/title/tt0060196/,178.0,1960
+"Il buono, il brutto, il cattivo",10,1966,Drama,2h 58m,8.8,https://www.imdb.com/title/tt0060196/,178.0,1960
+"Il buono, il brutto, il cattivo",10,1966,Western,2h 58m,8.8,https://www.imdb.com/title/tt0060196/,178.0,1960
+The Lord of the Rings: The Two Towers,11,2002,Adventure,2h 59m,8.8,https://www.imdb.com/title/tt0167261/,179.0,2000
+The Lord of the Rings: The Two Towers,11,2002,Drama,2h 59m,8.8,https://www.imdb.com/title/tt0167261/,179.0,2000
+The Lord of the Rings: The Two Towers,11,2002,Fantasy,2h 59m,8.8,https://www.imdb.com/title/tt0167261/,179.0,2000
+Forrest Gump,12,1994,Drama,2h 22m,8.8,https://www.imdb.com/title/tt0109830/,142.0,1990
+Forrest Gump,12,1994,Romance,2h 22m,8.8,https://www.imdb.com/title/tt0109830/,142.0,1990
+Fight Club,13,1999,Crime,2h 19m,8.8,https://www.imdb.com/title/tt0137523/,139.0,1990
+Fight Club,13,1999,Drama,2h 19m,8.8,https://www.imdb.com/title/tt0137523/,139.0,1990
+Fight Club,13,1999,Thriller,2h 19m,8.8,https://www.imdb.com/title/tt0137523/,139.0,1990
+Inception,14,2010,Action,2h 28m,8.8,https://www.imdb.com/title/tt1375666/,148.0,2010
+Inception,14,2010,Adventure,2h 28m,8.8,https://www.imdb.com/title/tt1375666/,148.0,2010
+Inception,14,2010,Sci-Fi,2h 28m,8.8,https://www.imdb.com/title/tt1375666/,148.0,2010
+Star Wars: Episode V - The Empire Strikes Back,15,1980,Action,2h 4m,8.7,https://www.imdb.com/title/tt0080684/,124.0,1980
+Star Wars: Episode V - The Empire Strikes Back,15,1980,Adventure,2h 4m,8.7,https://www.imdb.com/title/tt0080684/,124.0,1980
+Star Wars: Episode V - The Empire Strikes Back,15,1980,Fantasy,2h 4m,8.7,https://www.imdb.com/title/tt0080684/,124.0,1980
+The Matrix,16,1999,Action,2h 16m,8.7,https://www.imdb.com/title/tt0133093/,136.0,1990
+The Matrix,16,1999,Sci-Fi,2h 16m,8.7,https://www.imdb.com/title/tt0133093/,136.0,1990
+GoodFellas,17,1990,Biography,2h 25m,8.7,https://www.imdb.com/title/tt0099685/,145.0,1990
+GoodFellas,17,1990,Crime,2h 25m,8.7,https://www.imdb.com/title/tt0099685/,145.0,1990
+GoodFellas,17,1990,Drama,2h 25m,8.7,https://www.imdb.com/title/tt0099685/,145.0,1990
+Interstellar,18,2014,Adventure,2h 49m,8.7,https://www.imdb.com/title/tt0816692/,169.0,2010
+Interstellar,18,2014,Drama,2h 49m,8.7,https://www.imdb.com/title/tt0816692/,169.0,2010
+Interstellar,18,2014,Sci-Fi,2h 49m,8.7,https://www.imdb.com/title/tt0816692/,169.0,2010
+One Flew Over the Cuckoo&apos;s Nest,19,1975,Drama,2h 13m,8.6,https://www.imdb.com/title/tt0073486/,133.0,1970
+Se7en,20,1995,Crime,2h 7m,8.6,https://www.imdb.com/title/tt0114369/,127.0,1990
+Se7en,20,1995,Drama,2h 7m,8.6,https://www.imdb.com/title/tt0114369/,127.0,1990
+Se7en,20,1995,Mystery,2h 7m,8.6,https://www.imdb.com/title/tt0114369/,127.0,1990
+It&apos;s a Wonderful Life,21,1946,Drama,2h 10m,8.6,https://www.imdb.com/title/tt0038650/,130.0,1940
+It&apos;s a Wonderful Life,21,1946,Family,2h 10m,8.6,https://www.imdb.com/title/tt0038650/,130.0,1940
+It&apos;s a Wonderful Life,21,1946,Fantasy,2h 10m,8.6,https://www.imdb.com/title/tt0038650/,130.0,1940
+The Silence of the Lambs,22,1991,Crime,1h 58m,8.6,https://www.imdb.com/title/tt0102926/,118.0,1990
+The Silence of the Lambs,22,1991,Drama,1h 58m,8.6,https://www.imdb.com/title/tt0102926/,118.0,1990
+The Silence of the Lambs,22,1991,Horror,1h 58m,8.6,https://www.imdb.com/title/tt0102926/,118.0,1990
+Shichinin no samurai,23,1954,Action,3h 27m,8.6,https://www.imdb.com/title/tt0047478/,207.0,1950
+Shichinin no samurai,23,1954,Drama,3h 27m,8.6,https://www.imdb.com/title/tt0047478/,207.0,1950
+Saving Private Ryan,24,1998,Drama,2h 49m,8.6,https://www.imdb.com/title/tt0120815/,169.0,1990
+Saving Private Ryan,24,1998,War,2h 49m,8.6,https://www.imdb.com/title/tt0120815/,169.0,1990
+The Green Mile,25,1999,Crime,3h 9m,8.6,https://www.imdb.com/title/tt0120689/,189.0,1990
+The Green Mile,25,1999,Drama,3h 9m,8.6,https://www.imdb.com/title/tt0120689/,189.0,1990
+The Green Mile,25,1999,Fantasy,3h 9m,8.6,https://www.imdb.com/title/tt0120689/,189.0,1990
+Cidade de Deus,26,2002,Crime,2h 10m,8.6,https://www.imdb.com/title/tt0317248/,130.0,2000
+Cidade de Deus,26,2002,Drama,2h 10m,8.6,https://www.imdb.com/title/tt0317248/,130.0,2000
+La vita è bella,27,1997,Comedy,1h 56m,8.6,https://www.imdb.com/title/tt0118799/,116.0,1990
+La vita è bella,27,1997,Drama,1h 56m,8.6,https://www.imdb.com/title/tt0118799/,116.0,1990
+La vita è bella,27,1997,Romance,1h 56m,8.6,https://www.imdb.com/title/tt0118799/,116.0,1990
+Terminator 2: Judgment Day,28,1991,Action,2h 17m,8.6,https://www.imdb.com/title/tt0103064/,137.0,1990
+Terminator 2: Judgment Day,28,1991,Adventure,2h 17m,8.6,https://www.imdb.com/title/tt0103064/,137.0,1990
+Terminator 2: Judgment Day,28,1991,Sci-Fi,2h 17m,8.6,https://www.imdb.com/title/tt0103064/,137.0,1990
+Star Wars,29,1977,Action,2h 1m,8.6,https://www.imdb.com/title/tt0076759/,121.0,1970
+Star Wars,29,1977,Adventure,2h 1m,8.6,https://www.imdb.com/title/tt0076759/,121.0,1970
+Star Wars,29,1977,Fantasy,2h 1m,8.6,https://www.imdb.com/title/tt0076759/,121.0,1970
+Back to the Future,30,1985,Adventure,1h 56m,8.5,https://www.imdb.com/title/tt0088763/,116.0,1980
+Back to the Future,30,1985,Comedy,1h 56m,8.5,https://www.imdb.com/title/tt0088763/,116.0,1980
+Back to the Future,30,1985,Sci-Fi,1h 56m,8.5,https://www.imdb.com/title/tt0088763/,116.0,1980
+Sen to Chihiro no kamikakushi,31,2001,Animation,2h 4m,8.6,https://www.imdb.com/title/tt0245429/,124.0,2000
+Sen to Chihiro no kamikakushi,31,2001,Adventure,2h 4m,8.6,https://www.imdb.com/title/tt0245429/,124.0,2000
+Sen to Chihiro no kamikakushi,31,2001,Family,2h 4m,8.6,https://www.imdb.com/title/tt0245429/,124.0,2000
+The Pianist,32,2002,Biography,2h 30m,8.5,https://www.imdb.com/title/tt0253474/,150.0,2000
+The Pianist,32,2002,Drama,2h 30m,8.5,https://www.imdb.com/title/tt0253474/,150.0,2000
+The Pianist,32,2002,Music,2h 30m,8.5,https://www.imdb.com/title/tt0253474/,150.0,2000
+Gladiator,33,2000,Action,2h 35m,8.5,https://www.imdb.com/title/tt0172495/,155.0,2000
+Gladiator,33,2000,Adventure,2h 35m,8.5,https://www.imdb.com/title/tt0172495/,155.0,2000
+Gladiator,33,2000,Drama,2h 35m,8.5,https://www.imdb.com/title/tt0172495/,155.0,2000
+Gisaengchung,34,2019,Drama,2h 12m,8.5,https://www.imdb.com/title/tt6751668/,132.0,2010
+Gisaengchung,34,2019,Thriller,2h 12m,8.5,https://www.imdb.com/title/tt6751668/,132.0,2010
+Psycho,35,1960,Drama,1h 49m,8.5,https://www.imdb.com/title/tt0054215/,109.0,1960
+Psycho,35,1960,Horror,1h 49m,8.5,https://www.imdb.com/title/tt0054215/,109.0,1960
+Psycho,35,1960,Mystery,1h 49m,8.5,https://www.imdb.com/title/tt0054215/,109.0,1960
+Hotaru no haka,36,1988,Animation,1h 28m,8.5,https://www.imdb.com/title/tt0095327/,88.0,1980
+Hotaru no haka,36,1988,Drama,1h 28m,8.5,https://www.imdb.com/title/tt0095327/,88.0,1980
+Hotaru no haka,36,1988,War,1h 28m,8.5,https://www.imdb.com/title/tt0095327/,88.0,1980
+The Lion King,37,1994,Animation,1h 28m,8.5,https://www.imdb.com/title/tt0110357/,88.0,1990
+The Lion King,37,1994,Adventure,1h 28m,8.5,https://www.imdb.com/title/tt0110357/,88.0,1990
+The Lion King,37,1994,Drama,1h 28m,8.5,https://www.imdb.com/title/tt0110357/,88.0,1990
+Seppuku,38,1962,Drama,2h 13m,8.6,https://www.imdb.com/title/tt0056058/,133.0,1960
+Seppuku,38,1962,Mystery,2h 13m,8.6,https://www.imdb.com/title/tt0056058/,133.0,1960
+The Departed,39,2006,Crime,2h 31m,8.5,https://www.imdb.com/title/tt0407887/,151.0,2000
+The Departed,39,2006,Drama,2h 31m,8.5,https://www.imdb.com/title/tt0407887/,151.0,2000
+The Departed,39,2006,Thriller,2h 31m,8.5,https://www.imdb.com/title/tt0407887/,151.0,2000
+Whiplash,40,2014,Drama,1h 46m,8.5,https://www.imdb.com/title/tt2582802/,106.0,2010
+Whiplash,40,2014,Music,1h 46m,8.5,https://www.imdb.com/title/tt2582802/,106.0,2010
+The Prestige,41,2006,Drama,2h 10m,8.5,https://www.imdb.com/title/tt0482571/,130.0,2000
+The Prestige,41,2006,Mystery,2h 10m,8.5,https://www.imdb.com/title/tt0482571/,130.0,2000
+The Prestige,41,2006,Sci-Fi,2h 10m,8.5,https://www.imdb.com/title/tt0482571/,130.0,2000
+American History X,42,1998,Crime,1h 59m,8.5,https://www.imdb.com/title/tt0120586/,119.0,1990
+American History X,42,1998,Drama,1h 59m,8.5,https://www.imdb.com/title/tt0120586/,119.0,1990
+Léon,43,1994,Action,1h 50m,8.5,https://www.imdb.com/title/tt0110413/,110.0,1990
+Léon,43,1994,Crime,1h 50m,8.5,https://www.imdb.com/title/tt0110413/,110.0,1990
+Léon,43,1994,Drama,1h 50m,8.5,https://www.imdb.com/title/tt0110413/,110.0,1990
+Spider-Man: Across the Spider-Verse,44,2023,Animation,2h 20m,8.5,https://www.imdb.com/title/tt9362722/,140.0,2020
+Spider-Man: Across the Spider-Verse,44,2023,Action,2h 20m,8.5,https://www.imdb.com/title/tt9362722/,140.0,2020
+Spider-Man: Across the Spider-Verse,44,2023,Adventure,2h 20m,8.5,https://www.imdb.com/title/tt9362722/,140.0,2020
+Nuovo Cinema Paradiso,45,1988,Drama,2h 54m,8.5,https://www.imdb.com/title/tt0095765/,174.0,1980
+Nuovo Cinema Paradiso,45,1988,Romance,2h 54m,8.5,https://www.imdb.com/title/tt0095765/,174.0,1980
+Casablanca,46,1942,Drama,1h 42m,8.5,https://www.imdb.com/title/tt0034583/,102.0,1940
+Casablanca,46,1942,Romance,1h 42m,8.5,https://www.imdb.com/title/tt0034583/,102.0,1940
+Casablanca,46,1942,War,1h 42m,8.5,https://www.imdb.com/title/tt0034583/,102.0,1940
+Intouchables,47,2011,Comedy,1h 52m,8.5,https://www.imdb.com/title/tt1675434/,112.0,2010
+Intouchables,47,2011,Drama,1h 52m,8.5,https://www.imdb.com/title/tt1675434/,112.0,2010
+The Usual Suspects,48,1995,Crime,1h 46m,8.5,https://www.imdb.com/title/tt0114814/,106.0,1990
+The Usual Suspects,48,1995,Drama,1h 46m,8.5,https://www.imdb.com/title/tt0114814/,106.0,1990
+The Usual Suspects,48,1995,Mystery,1h 46m,8.5,https://www.imdb.com/title/tt0114814/,106.0,1990
+Alien,49,1979,Horror,1h 57m,8.5,https://www.imdb.com/title/tt0078748/,117.0,1970
+Alien,49,1979,Sci-Fi,1h 57m,8.5,https://www.imdb.com/title/tt0078748/,117.0,1970
+Modern Times,50,1936,Comedy,1h 27m,8.5,https://www.imdb.com/title/tt0027977/,87.0,1930
+Modern Times,50,1936,Drama,1h 27m,8.5,https://www.imdb.com/title/tt0027977/,87.0,1930
+Modern Times,50,1936,Romance,1h 27m,8.5,https://www.imdb.com/title/tt0027977/,87.0,1930
+Rear Window,51,1954,Drama,1h 52m,8.5,https://www.imdb.com/title/tt0047396/,112.0,1950
+Rear Window,51,1954,Mystery,1h 52m,8.5,https://www.imdb.com/title/tt0047396/,112.0,1950
+Rear Window,51,1954,Thriller,1h 52m,8.5,https://www.imdb.com/title/tt0047396/,112.0,1950
+Django Unchained,52,2012,Drama,2h 45m,8.5,https://www.imdb.com/title/tt1853728/,165.0,2010
+Django Unchained,52,2012,Western,2h 45m,8.5,https://www.imdb.com/title/tt1853728/,165.0,2010
+C&apos;era una volta il West,53,1968,Drama,2h 46m,8.5,https://www.imdb.com/title/tt0064116/,166.0,1960
+C&apos;era una volta il West,53,1968,Western,2h 46m,8.5,https://www.imdb.com/title/tt0064116/,166.0,1960
+City Lights,54,1931,Comedy,1h 27m,8.5,https://www.imdb.com/title/tt0021749/,87.0,1930
+City Lights,54,1931,Drama,1h 27m,8.5,https://www.imdb.com/title/tt0021749/,87.0,1930
+City Lights,54,1931,Romance,1h 27m,8.5,https://www.imdb.com/title/tt0021749/,87.0,1930
+Apocalypse Now,55,1979,Drama,2h 27m,8.4,https://www.imdb.com/title/tt0078788/,147.0,1970
+Apocalypse Now,55,1979,Mystery,2h 27m,8.4,https://www.imdb.com/title/tt0078788/,147.0,1970
+Apocalypse Now,55,1979,War,2h 27m,8.4,https://www.imdb.com/title/tt0078788/,147.0,1970
+WALL·E,56,2008,Animation,1h 38m,8.4,https://www.imdb.com/title/tt0910970/,98.0,2000
+WALL·E,56,2008,Adventure,1h 38m,8.4,https://www.imdb.com/title/tt0910970/,98.0,2000
+WALL·E,56,2008,Family,1h 38m,8.4,https://www.imdb.com/title/tt0910970/,98.0,2000
+Memento,57,2000,Drama,1h 53m,8.4,https://www.imdb.com/title/tt0209144/,113.0,2000
+Memento,57,2000,Mystery,1h 53m,8.4,https://www.imdb.com/title/tt0209144/,113.0,2000
+Memento,57,2000,Thriller,1h 53m,8.4,https://www.imdb.com/title/tt0209144/,113.0,2000
+Dune: Part Two,58,2024,Action,2h 46m,8.4,https://www.imdb.com/title/tt15239678/,166.0,2020
+Dune: Part Two,58,2024,Adventure,2h 46m,8.4,https://www.imdb.com/title/tt15239678/,166.0,2020
+Dune: Part Two,58,2024,Drama,2h 46m,8.4,https://www.imdb.com/title/tt15239678/,166.0,2020
+Raiders of the Lost Ark,59,1981,Action,1h 55m,8.4,https://www.imdb.com/title/tt0082971/,115.0,1980
+Raiders of the Lost Ark,59,1981,Adventure,1h 55m,8.4,https://www.imdb.com/title/tt0082971/,115.0,1980
+Avengers: Infinity War,60,2018,Action,2h 29m,8.4,https://www.imdb.com/title/tt4154756/,149.0,2010
+Avengers: Infinity War,60,2018,Adventure,2h 29m,8.4,https://www.imdb.com/title/tt4154756/,149.0,2010
+Avengers: Infinity War,60,2018,Sci-Fi,2h 29m,8.4,https://www.imdb.com/title/tt4154756/,149.0,2010
+Das Leben der Anderen,61,2006,Drama,2h 17m,8.4,https://www.imdb.com/title/tt0405094/,137.0,2000
+Das Leben der Anderen,61,2006,Mystery,2h 17m,8.4,https://www.imdb.com/title/tt0405094/,137.0,2000
+Das Leben der Anderen,61,2006,Thriller,2h 17m,8.4,https://www.imdb.com/title/tt0405094/,137.0,2000
+Spider-Man: Into the Spider-Verse,62,2018,Animation,1h 57m,8.4,https://www.imdb.com/title/tt4633694/,117.0,2010
+Spider-Man: Into the Spider-Verse,62,2018,Action,1h 57m,8.4,https://www.imdb.com/title/tt4633694/,117.0,2010
+Spider-Man: Into the Spider-Verse,62,2018,Adventure,1h 57m,8.4,https://www.imdb.com/title/tt4633694/,117.0,2010
+Sunset Blvd.,63,1950,Drama,1h 50m,8.4,https://www.imdb.com/title/tt0043014/,110.0,1950
+Sunset Blvd.,63,1950,Film-Noir,1h 50m,8.4,https://www.imdb.com/title/tt0043014/,110.0,1950
+Witness for the Prosecution,64,1957,Crime,1h 56m,8.4,https://www.imdb.com/title/tt0051201/,116.0,1950
+Witness for the Prosecution,64,1957,Drama,1h 56m,8.4,https://www.imdb.com/title/tt0051201/,116.0,1950
+Witness for the Prosecution,64,1957,Mystery,1h 56m,8.4,https://www.imdb.com/title/tt0051201/,116.0,1950
+Paths of Glory,65,1957,Drama,1h 28m,8.4,https://www.imdb.com/title/tt0050825/,88.0,1950
+Paths of Glory,65,1957,War,1h 28m,8.4,https://www.imdb.com/title/tt0050825/,88.0,1950
+The Shining,66,1980,Drama,2h 26m,8.4,https://www.imdb.com/title/tt0081505/,146.0,1980
+The Shining,66,1980,Horror,2h 26m,8.4,https://www.imdb.com/title/tt0081505/,146.0,1980
+The Great Dictator,67,1940,Comedy,2h 5m,8.4,https://www.imdb.com/title/tt0032553/,125.0,1940
+The Great Dictator,67,1940,Drama,2h 5m,8.4,https://www.imdb.com/title/tt0032553/,125.0,1940
+The Great Dictator,67,1940,War,2h 5m,8.4,https://www.imdb.com/title/tt0032553/,125.0,1940
+Inglourious Basterds,68,2009,Adventure,2h 33m,8.4,https://www.imdb.com/title/tt0361748/,153.0,2000
+Inglourious Basterds,68,2009,Drama,2h 33m,8.4,https://www.imdb.com/title/tt0361748/,153.0,2000
+Inglourious Basterds,68,2009,War,2h 33m,8.4,https://www.imdb.com/title/tt0361748/,153.0,2000
+Aliens,69,1986,Action,2h 17m,8.4,https://www.imdb.com/title/tt0090605/,137.0,1980
+Aliens,69,1986,Adventure,2h 17m,8.4,https://www.imdb.com/title/tt0090605/,137.0,1980
+Aliens,69,1986,Horror,2h 17m,8.4,https://www.imdb.com/title/tt0090605/,137.0,1980
+12th Fail,70,2023,Biography,2h 27m,8.7,https://www.imdb.com/title/tt23849204/,147.0,2020
+12th Fail,70,2023,Drama,2h 27m,8.7,https://www.imdb.com/title/tt23849204/,147.0,2020
+Tengoku to jigoku,71,1963,Crime,2h 23m,8.4,https://www.imdb.com/title/tt0057565/,143.0,1960
+Tengoku to jigoku,71,1963,Drama,2h 23m,8.4,https://www.imdb.com/title/tt0057565/,143.0,1960
+Tengoku to jigoku,71,1963,Mystery,2h 23m,8.4,https://www.imdb.com/title/tt0057565/,143.0,1960
+The Dark Knight Rises,72,2012,Action,2h 44m,8.4,https://www.imdb.com/title/tt1345836/,164.0,2010
+The Dark Knight Rises,72,2012,Crime,2h 44m,8.4,https://www.imdb.com/title/tt1345836/,164.0,2010
+The Dark Knight Rises,72,2012,Drama,2h 44m,8.4,https://www.imdb.com/title/tt1345836/,164.0,2010
+Coco,73,2017,Animation,1h 45m,8.4,https://www.imdb.com/title/tt2380307/,105.0,2010
+Coco,73,2017,Adventure,1h 45m,8.4,https://www.imdb.com/title/tt2380307/,105.0,2010
+Coco,73,2017,Drama,1h 45m,8.4,https://www.imdb.com/title/tt2380307/,105.0,2010
+Avengers: Endgame,74,2019,Action,3h 1m,8.4,https://www.imdb.com/title/tt4154796/,181.0,2010
+Avengers: Endgame,74,2019,Adventure,3h 1m,8.4,https://www.imdb.com/title/tt4154796/,181.0,2010
+Avengers: Endgame,74,2019,Sci-Fi,3h 1m,8.4,https://www.imdb.com/title/tt4154796/,181.0,2010
+Amadeus,75,1984,Biography,2h 40m,8.4,https://www.imdb.com/title/tt0086879/,160.0,1980
+Amadeus,75,1984,Drama,2h 40m,8.4,https://www.imdb.com/title/tt0086879/,160.0,1980
+Amadeus,75,1984,Music,2h 40m,8.4,https://www.imdb.com/title/tt0086879/,160.0,1980
+Good Will Hunting,76,1997,Drama,2h 6m,8.3,https://www.imdb.com/title/tt0119217/,126.0,1990
+Good Will Hunting,76,1997,Romance,2h 6m,8.3,https://www.imdb.com/title/tt0119217/,126.0,1990
+Toy Story,77,1995,Animation,1h 21m,8.3,https://www.imdb.com/title/tt0114709/,81.0,1990
+Toy Story,77,1995,Adventure,1h 21m,8.3,https://www.imdb.com/title/tt0114709/,81.0,1990
+Toy Story,77,1995,Comedy,1h 21m,8.3,https://www.imdb.com/title/tt0114709/,81.0,1990
+Kimi no Na wa.,78,2016,Animation,1h 46m,8.4,https://www.imdb.com/title/tt5311514/,106.0,2010
+Kimi no Na wa.,78,2016,Drama,1h 46m,8.4,https://www.imdb.com/title/tt5311514/,106.0,2010
+Kimi no Na wa.,78,2016,Fantasy,1h 46m,8.4,https://www.imdb.com/title/tt5311514/,106.0,2010
+Das Boot,79,1981,Drama,2h 29m,8.4,https://www.imdb.com/title/tt0082096/,149.0,1980
+Das Boot,79,1981,War,2h 29m,8.4,https://www.imdb.com/title/tt0082096/,149.0,1980
+Oldeuboi,80,2003,Action,2h,8.3,https://www.imdb.com/title/tt0364569/,120.0,2000
+Oldeuboi,80,2003,Drama,2h,8.3,https://www.imdb.com/title/tt0364569/,120.0,2000
+Oldeuboi,80,2003,Mystery,2h,8.3,https://www.imdb.com/title/tt0364569/,120.0,2000
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,81,1964,Comedy,1h 35m,8.3,https://www.imdb.com/title/tt0057012/,95.0,1960
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,81,1964,War,1h 35m,8.3,https://www.imdb.com/title/tt0057012/,95.0,1960
+Braveheart,82,1995,Biography,2h 58m,8.3,https://www.imdb.com/title/tt0112573/,178.0,1990
+Braveheart,82,1995,Drama,2h 58m,8.3,https://www.imdb.com/title/tt0112573/,178.0,1990
+Braveheart,82,1995,War,2h 58m,8.3,https://www.imdb.com/title/tt0112573/,178.0,1990
+Mononoke-hime,83,1997,Animation,2h 13m,8.3,https://www.imdb.com/title/tt0119698/,133.0,1990
+Mononoke-hime,83,1997,Adventure,2h 13m,8.3,https://www.imdb.com/title/tt0119698/,133.0,1990
+Mononoke-hime,83,1997,Fantasy,2h 13m,8.3,https://www.imdb.com/title/tt0119698/,133.0,1990
+American Beauty,84,1999,Drama,2h 2m,8.3,https://www.imdb.com/title/tt0169547/,122.0,1990
+3 Idiots,85,2009,Comedy,2h 50m,8.4,https://www.imdb.com/title/tt1187043/,170.0,2000
+3 Idiots,85,2009,Drama,2h 50m,8.4,https://www.imdb.com/title/tt1187043/,170.0,2000
+Capharnaüm,86,2018,Drama,2h 6m,8.4,https://www.imdb.com/title/tt8267604/,126.0,2010
+Joker,87,2019,Crime,2h 2m,8.3,https://www.imdb.com/title/tt7286456/,122.0,2010
+Joker,87,2019,Drama,2h 2m,8.3,https://www.imdb.com/title/tt7286456/,122.0,2010
+Joker,87,2019,Thriller,2h 2m,8.3,https://www.imdb.com/title/tt7286456/,122.0,2010
+C&apos;era una volta in America,88,1984,Crime,3h 49m,8.3,https://www.imdb.com/title/tt0087843/,229.0,1980
+C&apos;era una volta in America,88,1984,Drama,3h 49m,8.3,https://www.imdb.com/title/tt0087843/,229.0,1980
+Singin&apos; in the Rain,89,1952,Comedy,1h 43m,8.3,https://www.imdb.com/title/tt0045152/,103.0,1950
+Singin&apos; in the Rain,89,1952,Musical,1h 43m,8.3,https://www.imdb.com/title/tt0045152/,103.0,1950
+Singin&apos; in the Rain,89,1952,Romance,1h 43m,8.3,https://www.imdb.com/title/tt0045152/,103.0,1950
+Idi i smotri,90,1985,Drama,2h 22m,8.3,https://www.imdb.com/title/tt0091251/,142.0,1980
+Idi i smotri,90,1985,Thriller,2h 22m,8.3,https://www.imdb.com/title/tt0091251/,142.0,1980
+Idi i smotri,90,1985,War,2h 22m,8.3,https://www.imdb.com/title/tt0091251/,142.0,1980
+Requiem for a Dream,91,2000,Drama,1h 42m,8.3,https://www.imdb.com/title/tt0180093/,102.0,2000
+Star Wars: Episode VI - Return of the Jedi,92,1983,Action,2h 11m,8.3,https://www.imdb.com/title/tt0086190/,131.0,1980
+Star Wars: Episode VI - Return of the Jedi,92,1983,Adventure,2h 11m,8.3,https://www.imdb.com/title/tt0086190/,131.0,1980
+Star Wars: Episode VI - Return of the Jedi,92,1983,Fantasy,2h 11m,8.3,https://www.imdb.com/title/tt0086190/,131.0,1980
+Toy Story 3,93,2010,Animation,1h 43m,8.3,https://www.imdb.com/title/tt0435761/,103.0,2010
+Toy Story 3,93,2010,Adventure,1h 43m,8.3,https://www.imdb.com/title/tt0435761/,103.0,2010
+Toy Story 3,93,2010,Comedy,1h 43m,8.3,https://www.imdb.com/title/tt0435761/,103.0,2010
+Jagten,94,2012,Drama,1h 55m,8.3,https://www.imdb.com/title/tt2106476/,115.0,2010
+Ikiru,95,1952,Drama,2h 23m,8.3,https://www.imdb.com/title/tt0044741/,143.0,1950
+Eternal Sunshine of the Spotless Mind,96,2004,Drama,1h 48m,8.3,https://www.imdb.com/title/tt0338013/,108.0,2000
+Eternal Sunshine of the Spotless Mind,96,2004,Romance,1h 48m,8.3,https://www.imdb.com/title/tt0338013/,108.0,2000
+Eternal Sunshine of the Spotless Mind,96,2004,Sci-Fi,1h 48m,8.3,https://www.imdb.com/title/tt0338013/,108.0,2000
+Incendies,97,2010,Drama,2h 11m,8.3,https://www.imdb.com/title/tt1255953/,131.0,2010
+Incendies,97,2010,Mystery,2h 11m,8.3,https://www.imdb.com/title/tt1255953/,131.0,2010
+Incendies,97,2010,War,2h 11m,8.3,https://www.imdb.com/title/tt1255953/,131.0,2010
+The Apartment,98,1960,Comedy,2h 5m,8.3,https://www.imdb.com/title/tt0053604/,125.0,1960
+The Apartment,98,1960,Drama,2h 5m,8.3,https://www.imdb.com/title/tt0053604/,125.0,1960
+The Apartment,98,1960,Romance,2h 5m,8.3,https://www.imdb.com/title/tt0053604/,125.0,1960
+Lawrence of Arabia,99,1962,Adventure,3h 47m,8.3,https://www.imdb.com/title/tt0056172/,227.0,1960
+Lawrence of Arabia,99,1962,Biography,3h 47m,8.3,https://www.imdb.com/title/tt0056172/,227.0,1960
+Lawrence of Arabia,99,1962,Drama,3h 47m,8.3,https://www.imdb.com/title/tt0056172/,227.0,1960
+2001: A Space Odyssey,100,1968,Adventure,2h 29m,8.3,https://www.imdb.com/title/tt0062622/,149.0,1960
+2001: A Space Odyssey,100,1968,Sci-Fi,2h 29m,8.3,https://www.imdb.com/title/tt0062622/,149.0,1960
+Reservoir Dogs,101,1992,Crime,1h 39m,8.3,https://www.imdb.com/title/tt0105236/,99.0,1990
+Reservoir Dogs,101,1992,Thriller,1h 39m,8.3,https://www.imdb.com/title/tt0105236/,99.0,1990
+Scarface,102,1983,Crime,2h 50m,8.3,https://www.imdb.com/title/tt0086250/,170.0,1980
+Scarface,102,1983,Drama,2h 50m,8.3,https://www.imdb.com/title/tt0086250/,170.0,1980
+Heat,103,1995,Action,2h 50m,8.3,https://www.imdb.com/title/tt0113277/,170.0,1990
+Heat,103,1995,Crime,2h 50m,8.3,https://www.imdb.com/title/tt0113277/,170.0,1990
+Heat,103,1995,Drama,2h 50m,8.3,https://www.imdb.com/title/tt0113277/,170.0,1990
+Double Indemnity,104,1944,Crime,1h 47m,8.3,https://www.imdb.com/title/tt0036775/,107.0,1940
+Double Indemnity,104,1944,Drama,1h 47m,8.3,https://www.imdb.com/title/tt0036775/,107.0,1940
+Double Indemnity,104,1944,Film-Noir,1h 47m,8.3,https://www.imdb.com/title/tt0036775/,107.0,1940
+Up,105,2009,Animation,1h 36m,8.3,https://www.imdb.com/title/tt1049413/,96.0,2000
+Up,105,2009,Adventure,1h 36m,8.3,https://www.imdb.com/title/tt1049413/,96.0,2000
+Up,105,2009,Comedy,1h 36m,8.3,https://www.imdb.com/title/tt1049413/,96.0,2000
+North by Northwest,106,1959,Adventure,2h 16m,8.3,https://www.imdb.com/title/tt0053125/,136.0,1950
+North by Northwest,106,1959,Drama,2h 16m,8.3,https://www.imdb.com/title/tt0053125/,136.0,1950
+North by Northwest,106,1959,Mystery,2h 16m,8.3,https://www.imdb.com/title/tt0053125/,136.0,1950
+M - Eine Stadt sucht einen Mörder,107,1931,Crime,1h 39m,8.3,https://www.imdb.com/title/tt0022100/,99.0,1930
+M - Eine Stadt sucht einen Mörder,107,1931,Mystery,1h 39m,8.3,https://www.imdb.com/title/tt0022100/,99.0,1930
+M - Eine Stadt sucht einen Mörder,107,1931,Thriller,1h 39m,8.3,https://www.imdb.com/title/tt0022100/,99.0,1930
+Full Metal Jacket,108,1987,Drama,1h 56m,8.2,https://www.imdb.com/title/tt0093058/,116.0,1980
+Full Metal Jacket,108,1987,War,1h 56m,8.2,https://www.imdb.com/title/tt0093058/,116.0,1980
+Taare Zameen Par,109,2007,Drama,2h 42m,8.3,https://www.imdb.com/title/tt0986264/,162.0,2000
+Taare Zameen Par,109,2007,Family,2h 42m,8.3,https://www.imdb.com/title/tt0986264/,162.0,2000
+Citizen Kane,110,1941,Drama,1h 59m,8.2,https://www.imdb.com/title/tt0033467/,119.0,1940
+Citizen Kane,110,1941,Mystery,1h 59m,8.2,https://www.imdb.com/title/tt0033467/,119.0,1940
+Le fabuleux destin d&apos;Amélie Poulain,111,2001,Comedy,2h 2m,8.3,https://www.imdb.com/title/tt0211915/,122.0,2000
+Le fabuleux destin d&apos;Amélie Poulain,111,2001,Romance,2h 2m,8.3,https://www.imdb.com/title/tt0211915/,122.0,2000
+Vertigo,112,1958,Mystery,2h 8m,8.2,https://www.imdb.com/title/tt0052357/,128.0,1950
+Vertigo,112,1958,Romance,2h 8m,8.2,https://www.imdb.com/title/tt0052357/,128.0,1950
+Vertigo,112,1958,Thriller,2h 8m,8.2,https://www.imdb.com/title/tt0052357/,128.0,1950
+Jodaeiye Nader az Simin,113,2011,Drama,2h 3m,8.3,https://www.imdb.com/title/tt1832382/,123.0,2010
+Die Hard,114,1988,Action,2h 12m,8.2,https://www.imdb.com/title/tt0095016/,132.0,1980
+Die Hard,114,1988,Thriller,2h 12m,8.2,https://www.imdb.com/title/tt0095016/,132.0,1980
+To Kill a Mockingbird,115,1962,Crime,2h 9m,8.3,https://www.imdb.com/title/tt0056592/,129.0,1960
+To Kill a Mockingbird,115,1962,Drama,2h 9m,8.3,https://www.imdb.com/title/tt0056592/,129.0,1960
+The Sting,116,1973,Comedy,2h 9m,8.2,https://www.imdb.com/title/tt0070735/,129.0,1970
+The Sting,116,1973,Crime,2h 9m,8.2,https://www.imdb.com/title/tt0070735/,129.0,1970
+The Sting,116,1973,Drama,2h 9m,8.2,https://www.imdb.com/title/tt0070735/,129.0,1970
+Indiana Jones and the Last Crusade,117,1989,Action,2h 7m,8.2,https://www.imdb.com/title/tt0097576/,127.0,1980
+Indiana Jones and the Last Crusade,117,1989,Adventure,2h 7m,8.2,https://www.imdb.com/title/tt0097576/,127.0,1980
+A Clockwork Orange,118,1971,Crime,2h 16m,8.2,https://www.imdb.com/title/tt0066921/,136.0,1970
+A Clockwork Orange,118,1971,Sci-Fi,2h 16m,8.2,https://www.imdb.com/title/tt0066921/,136.0,1970
+Metropolis,119,1927,Drama,2h 33m,8.2,https://www.imdb.com/title/tt0017136/,153.0,1920
+Metropolis,119,1927,Sci-Fi,2h 33m,8.2,https://www.imdb.com/title/tt0017136/,153.0,1920
+Snatch,120,2000,Comedy,1h 42m,8.2,https://www.imdb.com/title/tt0208092/,102.0,2000
+Snatch,120,2000,Crime,1h 42m,8.2,https://www.imdb.com/title/tt0208092/,102.0,2000
+1917,121,2019,Action,1h 59m,8.2,https://www.imdb.com/title/tt8579674/,119.0,2010
+1917,121,2019,Drama,1h 59m,8.2,https://www.imdb.com/title/tt8579674/,119.0,2010
+1917,121,2019,War,1h 59m,8.2,https://www.imdb.com/title/tt8579674/,119.0,2010
+L.A. Confidential,122,1997,Crime,2h 18m,8.2,https://www.imdb.com/title/tt0119488/,138.0,1990
+L.A. Confidential,122,1997,Drama,2h 18m,8.2,https://www.imdb.com/title/tt0119488/,138.0,1990
+L.A. Confidential,122,1997,Mystery,2h 18m,8.2,https://www.imdb.com/title/tt0119488/,138.0,1990
+Oppenheimer,123,2023,Biography,3h,8.3,https://www.imdb.com/title/tt15398776/,180.0,2020
+Oppenheimer,123,2023,Drama,3h,8.3,https://www.imdb.com/title/tt15398776/,180.0,2020
+Oppenheimer,123,2023,History,3h,8.3,https://www.imdb.com/title/tt15398776/,180.0,2020
+Der Untergang,124,2004,Biography,2h 36m,8.2,https://www.imdb.com/title/tt0363163/,156.0,2000
+Der Untergang,124,2004,Drama,2h 36m,8.2,https://www.imdb.com/title/tt0363163/,156.0,2000
+Der Untergang,124,2004,History,2h 36m,8.2,https://www.imdb.com/title/tt0363163/,156.0,2000
+Ladri di biciclette,125,1948,Drama,1h 29m,8.2,https://www.imdb.com/title/tt0040522/,89.0,1940
+Dangal,126,2016,Action,2h 41m,8.3,https://www.imdb.com/title/tt5074352/,161.0,2010
+Dangal,126,2016,Biography,2h 41m,8.3,https://www.imdb.com/title/tt5074352/,161.0,2010
+Dangal,126,2016,Drama,2h 41m,8.3,https://www.imdb.com/title/tt5074352/,161.0,2010
+The Wolf of Wall Street,127,2013,Biography,3h,8.2,https://www.imdb.com/title/tt0993846/,180.0,2010
+The Wolf of Wall Street,127,2013,Comedy,3h,8.2,https://www.imdb.com/title/tt0993846/,180.0,2010
+The Wolf of Wall Street,127,2013,Crime,3h,8.2,https://www.imdb.com/title/tt0993846/,180.0,2010
+The Truman Show,128,1998,Comedy,1h 43m,8.2,https://www.imdb.com/title/tt0120382/,103.0,1990
+The Truman Show,128,1998,Drama,1h 43m,8.2,https://www.imdb.com/title/tt0120382/,103.0,1990
+Green Book,129,2018,Biography,2h 10m,8.2,https://www.imdb.com/title/tt6966692/,130.0,2010
+Green Book,129,2018,Comedy,2h 10m,8.2,https://www.imdb.com/title/tt6966692/,130.0,2010
+Green Book,129,2018,Drama,2h 10m,8.2,https://www.imdb.com/title/tt6966692/,130.0,2010
+Hamilton,130,2020,Biography,2h 40m,8.3,https://www.imdb.com/title/tt8503618/,160.0,2020
+Hamilton,130,2020,Drama,2h 40m,8.3,https://www.imdb.com/title/tt8503618/,160.0,2020
+Hamilton,130,2020,History,2h 40m,8.3,https://www.imdb.com/title/tt8503618/,160.0,2020
+Batman Begins,131,2005,Action,2h 20m,8.2,https://www.imdb.com/title/tt0372784/,140.0,2000
+Batman Begins,131,2005,Crime,2h 20m,8.2,https://www.imdb.com/title/tt0372784/,140.0,2000
+Batman Begins,131,2005,Drama,2h 20m,8.2,https://www.imdb.com/title/tt0372784/,140.0,2000
+Judgment at Nuremberg,132,1961,Drama,2h 59m,8.3,https://www.imdb.com/title/tt0055031/,179.0,1960
+Judgment at Nuremberg,132,1961,History,2h 59m,8.3,https://www.imdb.com/title/tt0055031/,179.0,1960
+Judgment at Nuremberg,132,1961,War,2h 59m,8.3,https://www.imdb.com/title/tt0055031/,179.0,1960
+Shutter Island,133,2010,Drama,2h 18m,8.2,https://www.imdb.com/title/tt1130884/,138.0,2010
+Shutter Island,133,2010,Mystery,2h 18m,8.2,https://www.imdb.com/title/tt1130884/,138.0,2010
+Shutter Island,133,2010,Thriller,2h 18m,8.2,https://www.imdb.com/title/tt1130884/,138.0,2010
+Taxi Driver,134,1976,Crime,1h 54m,8.2,https://www.imdb.com/title/tt0075314/,114.0,1970
+Taxi Driver,134,1976,Drama,1h 54m,8.2,https://www.imdb.com/title/tt0075314/,114.0,1970
+Per qualche dollaro in più,135,1965,Drama,2h 12m,8.2,https://www.imdb.com/title/tt0059578/,132.0,1960
+Per qualche dollaro in più,135,1965,Western,2h 12m,8.2,https://www.imdb.com/title/tt0059578/,132.0,1960
+Some Like It Hot,136,1959,Comedy,2h 1m,8.2,https://www.imdb.com/title/tt0053291/,121.0,1950
+Some Like It Hot,136,1959,Music,2h 1m,8.2,https://www.imdb.com/title/tt0053291/,121.0,1950
+Some Like It Hot,136,1959,Romance,2h 1m,8.2,https://www.imdb.com/title/tt0053291/,121.0,1950
+Jurassic Park,137,1993,Action,2h 7m,8.2,https://www.imdb.com/title/tt0107290/,127.0,1990
+Jurassic Park,137,1993,Adventure,2h 7m,8.2,https://www.imdb.com/title/tt0107290/,127.0,1990
+Jurassic Park,137,1993,Sci-Fi,2h 7m,8.2,https://www.imdb.com/title/tt0107290/,127.0,1990
+There Will Be Blood,138,2007,Drama,2h 38m,8.2,https://www.imdb.com/title/tt0469494/,158.0,2000
+The Kid,139,1921,Comedy,1h 8m,8.2,https://www.imdb.com/title/tt0012349/,68.0,1920
+The Kid,139,1921,Drama,1h 8m,8.2,https://www.imdb.com/title/tt0012349/,68.0,1920
+The Kid,139,1921,Family,1h 8m,8.2,https://www.imdb.com/title/tt0012349/,68.0,1920
+The Father,140,2020,Drama,1h 37m,8.2,https://www.imdb.com/title/tt10272386/,97.0,2020
+The Father,140,2020,Mystery,1h 37m,8.2,https://www.imdb.com/title/tt10272386/,97.0,2020
+All About Eve,141,1950,Drama,2h 18m,8.2,https://www.imdb.com/title/tt0042192/,138.0,1950
+The Sixth Sense,142,1999,Drama,1h 47m,8.2,https://www.imdb.com/title/tt0167404/,107.0,1990
+The Sixth Sense,142,1999,Mystery,1h 47m,8.2,https://www.imdb.com/title/tt0167404/,107.0,1990
+The Sixth Sense,142,1999,Thriller,1h 47m,8.2,https://www.imdb.com/title/tt0167404/,107.0,1990
+Ran,143,1985,Action,2h 40m,8.2,https://www.imdb.com/title/tt0089881/,160.0,1980
+Ran,143,1985,Drama,2h 40m,8.2,https://www.imdb.com/title/tt0089881/,160.0,1980
+Ran,143,1985,War,2h 40m,8.2,https://www.imdb.com/title/tt0089881/,160.0,1980
+Casino,144,1995,Crime,2h 58m,8.2,https://www.imdb.com/title/tt0112641/,178.0,1990
+Casino,144,1995,Drama,2h 58m,8.2,https://www.imdb.com/title/tt0112641/,178.0,1990
+No Country for Old Men,145,2007,Crime,2h 2m,8.2,https://www.imdb.com/title/tt0477348/,122.0,2000
+No Country for Old Men,145,2007,Drama,2h 2m,8.2,https://www.imdb.com/title/tt0477348/,122.0,2000
+No Country for Old Men,145,2007,Thriller,2h 2m,8.2,https://www.imdb.com/title/tt0477348/,122.0,2000
+The Thing,146,1982,Horror,1h 49m,8.2,https://www.imdb.com/title/tt0084787/,109.0,1980
+The Thing,146,1982,Mystery,1h 49m,8.2,https://www.imdb.com/title/tt0084787/,109.0,1980
+The Thing,146,1982,Sci-Fi,1h 49m,8.2,https://www.imdb.com/title/tt0084787/,109.0,1980
+Hababam Sinifi: Sinifta Kaldi,147,1975,Comedy,1h 35m,8.6,https://www.imdb.com/title/tt0252488/,95.0,1970
+Top Gun: Maverick,148,2022,Action,2h 10m,8.2,https://www.imdb.com/title/tt1745960/,130.0,2020
+Top Gun: Maverick,148,2022,Drama,2h 10m,8.2,https://www.imdb.com/title/tt1745960/,130.0,2020
+El laberinto del fauno,149,2006,Drama,1h 58m,8.2,https://www.imdb.com/title/tt0457430/,118.0,2000
+El laberinto del fauno,149,2006,Fantasy,1h 58m,8.2,https://www.imdb.com/title/tt0457430/,118.0,2000
+El laberinto del fauno,149,2006,War,1h 58m,8.2,https://www.imdb.com/title/tt0457430/,118.0,2000
+Unforgiven,150,1992,Drama,2h 10m,8.2,https://www.imdb.com/title/tt0105695/,130.0,1990
+Unforgiven,150,1992,Western,2h 10m,8.2,https://www.imdb.com/title/tt0105695/,130.0,1990
+Prisoners,151,2013,Crime,2h 33m,8.2,https://www.imdb.com/title/tt1392214/,153.0,2010
+Prisoners,151,2013,Drama,2h 33m,8.2,https://www.imdb.com/title/tt1392214/,153.0,2010
+Prisoners,151,2013,Mystery,2h 33m,8.2,https://www.imdb.com/title/tt1392214/,153.0,2010
+Kill Bill: Vol. 1,152,2003,Action,1h 51m,8.2,https://www.imdb.com/title/tt0266697/,111.0,2000
+Kill Bill: Vol. 1,152,2003,Crime,1h 51m,8.2,https://www.imdb.com/title/tt0266697/,111.0,2000
+Kill Bill: Vol. 1,152,2003,Thriller,1h 51m,8.2,https://www.imdb.com/title/tt0266697/,111.0,2000
+A Beautiful Mind,153,2001,Biography,2h 15m,8.2,https://www.imdb.com/title/tt0268978/,135.0,2000
+A Beautiful Mind,153,2001,Drama,2h 15m,8.2,https://www.imdb.com/title/tt0268978/,135.0,2000
+A Beautiful Mind,153,2001,Mystery,2h 15m,8.2,https://www.imdb.com/title/tt0268978/,135.0,2000
+The Treasure of the Sierra Madre,154,1948,Adventure,2h 6m,8.2,https://www.imdb.com/title/tt0040897/,126.0,1940
+The Treasure of the Sierra Madre,154,1948,Drama,2h 6m,8.2,https://www.imdb.com/title/tt0040897/,126.0,1940
+The Treasure of the Sierra Madre,154,1948,Western,2h 6m,8.2,https://www.imdb.com/title/tt0040897/,126.0,1940
+Hauru no ugoku shiro,155,2004,Animation,1h 59m,8.2,https://www.imdb.com/title/tt0347149/,119.0,2000
+Hauru no ugoku shiro,155,2004,Adventure,1h 59m,8.2,https://www.imdb.com/title/tt0347149/,119.0,2000
+Hauru no ugoku shiro,155,2004,Family,1h 59m,8.2,https://www.imdb.com/title/tt0347149/,119.0,2000
+Finding Nemo,156,2003,Animation,1h 40m,8.2,https://www.imdb.com/title/tt0266543/,100.0,2000
+Finding Nemo,156,2003,Adventure,1h 40m,8.2,https://www.imdb.com/title/tt0266543/,100.0,2000
+Finding Nemo,156,2003,Comedy,1h 40m,8.2,https://www.imdb.com/title/tt0266543/,100.0,2000
+Yôjinbô,157,1961,Action,1h 50m,8.2,https://www.imdb.com/title/tt0055630/,110.0,1960
+Yôjinbô,157,1961,Drama,1h 50m,8.2,https://www.imdb.com/title/tt0055630/,110.0,1960
+Yôjinbô,157,1961,Thriller,1h 50m,8.2,https://www.imdb.com/title/tt0055630/,110.0,1960
+The Great Escape,158,1963,Adventure,2h 52m,8.2,https://www.imdb.com/title/tt0057115/,172.0,1960
+The Great Escape,158,1963,Drama,2h 52m,8.2,https://www.imdb.com/title/tt0057115/,172.0,1960
+The Great Escape,158,1963,Thriller,2h 52m,8.2,https://www.imdb.com/title/tt0057115/,172.0,1960
+Monty Python and the Holy Grail,159,1975,Adventure,1h 31m,8.2,https://www.imdb.com/title/tt0071853/,91.0,1970
+Monty Python and the Holy Grail,159,1975,Comedy,1h 31m,8.2,https://www.imdb.com/title/tt0071853/,91.0,1970
+Monty Python and the Holy Grail,159,1975,Fantasy,1h 31m,8.2,https://www.imdb.com/title/tt0071853/,91.0,1970
+La meglio gioventù,160,2003,Drama,6h 14m,8.4,https://www.imdb.com/title/tt0346336/,374.0,2000
+La meglio gioventù,160,2003,Romance,6h 14m,8.4,https://www.imdb.com/title/tt0346336/,374.0,2000
+The Elephant Man,161,1980,Biography,2h 4m,8.2,https://www.imdb.com/title/tt0080678/,124.0,1980
+The Elephant Man,161,1980,Drama,2h 4m,8.2,https://www.imdb.com/title/tt0080678/,124.0,1980
+Klaus,162,2019,Animation,1h 36m,8.2,https://www.imdb.com/title/tt4729430/,96.0,2010
+Klaus,162,2019,Adventure,1h 36m,8.2,https://www.imdb.com/title/tt4729430/,96.0,2010
+Klaus,162,2019,Comedy,1h 36m,8.2,https://www.imdb.com/title/tt4729430/,96.0,2010
+Dial M for Murder,163,1954,Crime,1h 45m,8.2,https://www.imdb.com/title/tt0046912/,105.0,1950
+Dial M for Murder,163,1954,Drama,1h 45m,8.2,https://www.imdb.com/title/tt0046912/,105.0,1950
+Dial M for Murder,163,1954,Mystery,1h 45m,8.2,https://www.imdb.com/title/tt0046912/,105.0,1950
+Gone with the Wind,164,1939,Drama,3h 58m,8.2,https://www.imdb.com/title/tt0031381/,238.0,1930
+Gone with the Wind,164,1939,Romance,3h 58m,8.2,https://www.imdb.com/title/tt0031381/,238.0,1930
+Gone with the Wind,164,1939,War,3h 58m,8.2,https://www.imdb.com/title/tt0031381/,238.0,1930
+El secreto de sus ojos,165,2009,Drama,2h 9m,8.2,https://www.imdb.com/title/tt1305806/,129.0,2000
+El secreto de sus ojos,165,2009,Mystery,2h 9m,8.2,https://www.imdb.com/title/tt1305806/,129.0,2000
+El secreto de sus ojos,165,2009,Romance,2h 9m,8.2,https://www.imdb.com/title/tt1305806/,129.0,2000
+Chinatown,166,1974,Drama,2h 10m,8.1,https://www.imdb.com/title/tt0071315/,130.0,1970
+Chinatown,166,1974,Mystery,2h 10m,8.1,https://www.imdb.com/title/tt0071315/,130.0,1970
+Chinatown,166,1974,Thriller,2h 10m,8.1,https://www.imdb.com/title/tt0071315/,130.0,1970
+"Lock, Stock and Two Smoking Barrels",167,1998,Comedy,1h 47m,8.1,https://www.imdb.com/title/tt0120735/,107.0,1990
+"Lock, Stock and Two Smoking Barrels",167,1998,Crime,1h 47m,8.1,https://www.imdb.com/title/tt0120735/,107.0,1990
+V for Vendetta,168,2005,Action,2h 12m,8.1,https://www.imdb.com/title/tt0434409/,132.0,2000
+V for Vendetta,168,2005,Drama,2h 12m,8.1,https://www.imdb.com/title/tt0434409/,132.0,2000
+V for Vendetta,168,2005,Sci-Fi,2h 12m,8.1,https://www.imdb.com/title/tt0434409/,132.0,2000
+Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,169,2025,Animation,2h 35m,8.5,https://www.imdb.com/title/tt32820897/,155.0,2020
+Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,169,2025,Action,2h 35m,8.5,https://www.imdb.com/title/tt32820897/,155.0,2020
+Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,169,2025,Adventure,2h 35m,8.5,https://www.imdb.com/title/tt32820897/,155.0,2020
+Rashômon,170,1950,Crime,1h 28m,8.1,https://www.imdb.com/title/tt0042876/,88.0,1950
+Rashômon,170,1950,Drama,1h 28m,8.1,https://www.imdb.com/title/tt0042876/,88.0,1950
+Rashômon,170,1950,Mystery,1h 28m,8.1,https://www.imdb.com/title/tt0042876/,88.0,1950
+Inside Out,171,2015,Animation,1h 35m,8.1,https://www.imdb.com/title/tt2096673/,95.0,2010
+Inside Out,171,2015,Adventure,1h 35m,8.1,https://www.imdb.com/title/tt2096673/,95.0,2010
+Inside Out,171,2015,Comedy,1h 35m,8.1,https://www.imdb.com/title/tt2096673/,95.0,2010
+Catch Me If You Can,172,2002,Biography,2h 21m,8.1,https://www.imdb.com/title/tt0264464/,141.0,2000
+Catch Me If You Can,172,2002,Crime,2h 21m,8.1,https://www.imdb.com/title/tt0264464/,141.0,2000
+Catch Me If You Can,172,2002,Drama,2h 21m,8.1,https://www.imdb.com/title/tt0264464/,141.0,2000
+"Three Billboards Outside Ebbing, Missouri",173,2017,Comedy,1h 55m,8.1,https://www.imdb.com/title/tt5027774/,115.0,2010
+"Three Billboards Outside Ebbing, Missouri",173,2017,Crime,1h 55m,8.1,https://www.imdb.com/title/tt5027774/,115.0,2010
+"Three Billboards Outside Ebbing, Missouri",173,2017,Drama,1h 55m,8.1,https://www.imdb.com/title/tt5027774/,115.0,2010
+Trainspotting,174,1996,Crime,1h 33m,8.1,https://www.imdb.com/title/tt0117951/,93.0,1990
+Trainspotting,174,1996,Drama,1h 33m,8.1,https://www.imdb.com/title/tt0117951/,93.0,1990
+The Bridge on the River Kwai,175,1957,Adventure,2h 41m,8.1,https://www.imdb.com/title/tt0050212/,161.0,1950
+The Bridge on the River Kwai,175,1957,Drama,2h 41m,8.1,https://www.imdb.com/title/tt0050212/,161.0,1950
+The Bridge on the River Kwai,175,1957,War,2h 41m,8.1,https://www.imdb.com/title/tt0050212/,161.0,1950
+Harry Potter and the Deathly Hallows: Part 2,176,2011,Adventure,2h 10m,8.1,https://www.imdb.com/title/tt1201607/,130.0,2010
+Harry Potter and the Deathly Hallows: Part 2,176,2011,Family,2h 10m,8.1,https://www.imdb.com/title/tt1201607/,130.0,2010
+Harry Potter and the Deathly Hallows: Part 2,176,2011,Fantasy,2h 10m,8.1,https://www.imdb.com/title/tt1201607/,130.0,2010
+Fargo,177,1996,Crime,1h 38m,8.1,https://www.imdb.com/title/tt0116282/,98.0,1990
+Fargo,177,1996,Drama,1h 38m,8.1,https://www.imdb.com/title/tt0116282/,98.0,1990
+Fargo,177,1996,Thriller,1h 38m,8.1,https://www.imdb.com/title/tt0116282/,98.0,1990
+Raging Bull,178,1980,Biography,2h 9m,8.1,https://www.imdb.com/title/tt0081398/,129.0,1980
+Raging Bull,178,1980,Drama,2h 9m,8.1,https://www.imdb.com/title/tt0081398/,129.0,1980
+Raging Bull,178,1980,Sport,2h 9m,8.1,https://www.imdb.com/title/tt0081398/,129.0,1980
+Warrior,179,2011,Action,2h 20m,8.1,https://www.imdb.com/title/tt1291584/,140.0,2010
+Warrior,179,2011,Drama,2h 20m,8.1,https://www.imdb.com/title/tt1291584/,140.0,2010
+Warrior,179,2011,Sport,2h 20m,8.1,https://www.imdb.com/title/tt1291584/,140.0,2010
+Dead Poets Society,180,1989,Comedy,2h 8m,8.1,https://www.imdb.com/title/tt0097165/,128.0,1980
+Dead Poets Society,180,1989,Drama,2h 8m,8.1,https://www.imdb.com/title/tt0097165/,128.0,1980
+The Wild Robot,181,2024,Animation,1h 42m,8.2,https://www.imdb.com/title/tt29623480/,102.0,2020
+The Wild Robot,181,2024,Adventure,1h 42m,8.2,https://www.imdb.com/title/tt29623480/,102.0,2020
+The Wild Robot,181,2024,Family,1h 42m,8.2,https://www.imdb.com/title/tt29623480/,102.0,2020
+Barry Lyndon,182,1975,Adventure,3h 5m,8.1,https://www.imdb.com/title/tt0072684/,185.0,1970
+Barry Lyndon,182,1975,Drama,3h 5m,8.1,https://www.imdb.com/title/tt0072684/,185.0,1970
+Barry Lyndon,182,1975,War,3h 5m,8.1,https://www.imdb.com/title/tt0072684/,185.0,1970
+Million Dollar Baby,183,2004,Drama,2h 12m,8.1,https://www.imdb.com/title/tt0405159/,132.0,2000
+Million Dollar Baby,183,2004,Sport,2h 12m,8.1,https://www.imdb.com/title/tt0405159/,132.0,2000
+Ben-Hur,184,1959,Adventure,3h 32m,8.1,https://www.imdb.com/title/tt0052618/,212.0,1950
+Ben-Hur,184,1959,Drama,3h 32m,8.1,https://www.imdb.com/title/tt0052618/,212.0,1950
+Mad Max: Fury Road,185,2015,Action,2h,8.1,https://www.imdb.com/title/tt1392190/,120.0,2010
+Mad Max: Fury Road,185,2015,Adventure,2h,8.1,https://www.imdb.com/title/tt1392190/,120.0,2010
+Mad Max: Fury Road,185,2015,Sci-Fi,2h,8.1,https://www.imdb.com/title/tt1392190/,120.0,2010
+Gran Torino,186,2008,Drama,1h 56m,8.1,https://www.imdb.com/title/tt1205489/,116.0,2000
+Tonari no Totoro,187,1988,Animation,1h 26m,8.1,https://www.imdb.com/title/tt0096283/,86.0,1980
+Tonari no Totoro,187,1988,Adventure,1h 26m,8.1,https://www.imdb.com/title/tt0096283/,86.0,1980
+Tonari no Totoro,187,1988,Comedy,1h 26m,8.1,https://www.imdb.com/title/tt0096283/,86.0,1980
+Bacheha-ye aseman,188,1997,Drama,1h 29m,8.2,https://www.imdb.com/title/tt0118849/,89.0,1990
+Bacheha-ye aseman,188,1997,Family,1h 29m,8.2,https://www.imdb.com/title/tt0118849/,89.0,1990
+Bacheha-ye aseman,188,1997,Sport,1h 29m,8.2,https://www.imdb.com/title/tt0118849/,89.0,1990
+Hacksaw Ridge,189,2016,Biography,2h 19m,8.1,https://www.imdb.com/title/tt2119532/,139.0,2010
+Hacksaw Ridge,189,2016,Drama,2h 19m,8.1,https://www.imdb.com/title/tt2119532/,139.0,2010
+Hacksaw Ridge,189,2016,History,2h 19m,8.1,https://www.imdb.com/title/tt2119532/,139.0,2010
+The Grand Budapest Hotel,190,2014,Comedy,1h 39m,8.1,https://www.imdb.com/title/tt2278388/,99.0,2010
+The Grand Budapest Hotel,190,2014,Drama,1h 39m,8.1,https://www.imdb.com/title/tt2278388/,99.0,2010
+12 Years a Slave,191,2013,Biography,2h 14m,8.1,https://www.imdb.com/title/tt2024544/,134.0,2010
+12 Years a Slave,191,2013,Drama,2h 14m,8.1,https://www.imdb.com/title/tt2024544/,134.0,2010
+12 Years a Slave,191,2013,History,2h 14m,8.1,https://www.imdb.com/title/tt2024544/,134.0,2010
+Before Sunrise,192,1995,Comedy,1h 41m,8.1,https://www.imdb.com/title/tt0112471/,101.0,1990
+Before Sunrise,192,1995,Drama,1h 41m,8.1,https://www.imdb.com/title/tt0112471/,101.0,1990
+Before Sunrise,192,1995,Romance,1h 41m,8.1,https://www.imdb.com/title/tt0112471/,101.0,1990
+Blade Runner,193,1982,Action,1h 57m,8.1,https://www.imdb.com/title/tt0083658/,117.0,1980
+Blade Runner,193,1982,Drama,1h 57m,8.1,https://www.imdb.com/title/tt0083658/,117.0,1980
+Blade Runner,193,1982,Sci-Fi,1h 57m,8.1,https://www.imdb.com/title/tt0083658/,117.0,1980
+Salinui chueok,194,2003,Crime,2h 12m,8.1,https://www.imdb.com/title/tt0353969/,132.0,2000
+Salinui chueok,194,2003,Drama,2h 12m,8.1,https://www.imdb.com/title/tt0353969/,132.0,2000
+Salinui chueok,194,2003,Mystery,2h 12m,8.1,https://www.imdb.com/title/tt0353969/,132.0,2000
+Ratatouille,195,2007,Animation,1h 51m,8.1,https://www.imdb.com/title/tt0382932/,111.0,2000
+Ratatouille,195,2007,Adventure,1h 51m,8.1,https://www.imdb.com/title/tt0382932/,111.0,2000
+Ratatouille,195,2007,Comedy,1h 51m,8.1,https://www.imdb.com/title/tt0382932/,111.0,2000
+Spider-Man: No Way Home,196,2021,Action,2h 28m,8.2,https://www.imdb.com/title/tt10872600/,148.0,2020
+Spider-Man: No Way Home,196,2021,Adventure,2h 28m,8.2,https://www.imdb.com/title/tt10872600/,148.0,2020
+Spider-Man: No Way Home,196,2021,Fantasy,2h 28m,8.2,https://www.imdb.com/title/tt10872600/,148.0,2020
+How to Train Your Dragon,197,2010,Animation,1h 38m,8.1,https://www.imdb.com/title/tt0892769/,98.0,2010
+How to Train Your Dragon,197,2010,Action,1h 38m,8.1,https://www.imdb.com/title/tt0892769/,98.0,2010
+How to Train Your Dragon,197,2010,Adventure,1h 38m,8.1,https://www.imdb.com/title/tt0892769/,98.0,2010
+Gone Girl,198,2014,Drama,2h 29m,8.1,https://www.imdb.com/title/tt2267998/,149.0,2010
+Gone Girl,198,2014,Mystery,2h 29m,8.1,https://www.imdb.com/title/tt2267998/,149.0,2010
+Gone Girl,198,2014,Thriller,2h 29m,8.1,https://www.imdb.com/title/tt2267998/,149.0,2010
+"Monsters, Inc.",199,2001,Animation,1h 32m,8.1,https://www.imdb.com/title/tt0198781/,92.0,2000
+"Monsters, Inc.",199,2001,Adventure,1h 32m,8.1,https://www.imdb.com/title/tt0198781/,92.0,2000
+"Monsters, Inc.",199,2001,Comedy,1h 32m,8.1,https://www.imdb.com/title/tt0198781/,92.0,2000
+Jaws,200,1975,Adventure,2h 4m,8.1,https://www.imdb.com/title/tt0073195/,124.0,1970
+Jaws,200,1975,Horror,2h 4m,8.1,https://www.imdb.com/title/tt0073195/,124.0,1970
+Jaws,200,1975,Thriller,2h 4m,8.1,https://www.imdb.com/title/tt0073195/,124.0,1970
+In the Name of the Father,201,1993,Biography,2h 13m,8.1,https://www.imdb.com/title/tt0107207/,133.0,1990
+In the Name of the Father,201,1993,Crime,2h 13m,8.1,https://www.imdb.com/title/tt0107207/,133.0,1990
+In the Name of the Father,201,1993,Drama,2h 13m,8.1,https://www.imdb.com/title/tt0107207/,133.0,1990
+Ford v Ferrari,202,2019,Action,2h 32m,8.1,https://www.imdb.com/title/tt1950186/,152.0,2010
+Ford v Ferrari,202,2019,Biography,2h 32m,8.1,https://www.imdb.com/title/tt1950186/,152.0,2010
+Ford v Ferrari,202,2019,Drama,2h 32m,8.1,https://www.imdb.com/title/tt1950186/,152.0,2010
+The Gold Rush,203,1925,Adventure,1h 35m,8.1,https://www.imdb.com/title/tt0015864/,95.0,1920
+The Gold Rush,203,1925,Comedy,1h 35m,8.1,https://www.imdb.com/title/tt0015864/,95.0,1920
+The Gold Rush,203,1925,Drama,1h 35m,8.1,https://www.imdb.com/title/tt0015864/,95.0,1920
+Relatos salvajes,204,2014,Comedy,2h 2m,8.1,https://www.imdb.com/title/tt3011894/,122.0,2010
+Relatos salvajes,204,2014,Drama,2h 2m,8.1,https://www.imdb.com/title/tt3011894/,122.0,2010
+Relatos salvajes,204,2014,Thriller,2h 2m,8.1,https://www.imdb.com/title/tt3011894/,122.0,2010
+Mary and Max.,206,2009,Animation,1h 32m,8.1,https://www.imdb.com/title/tt0978762/,92.0,2000
+Mary and Max.,206,2009,Comedy,1h 32m,8.1,https://www.imdb.com/title/tt0978762/,92.0,2000
+Mary and Max.,206,2009,Drama,1h 32m,8.1,https://www.imdb.com/title/tt0978762/,92.0,2000
+The Deer Hunter,207,1978,Drama,3h 3m,8.1,https://www.imdb.com/title/tt0077416/,183.0,1970
+The Deer Hunter,207,1978,War,3h 3m,8.1,https://www.imdb.com/title/tt0077416/,183.0,1970
+Le salaire de la peur,208,1953,Adventure,2h 36m,8.1,https://www.imdb.com/title/tt0046268/,156.0,1950
+Le salaire de la peur,208,1953,Drama,2h 36m,8.1,https://www.imdb.com/title/tt0046268/,156.0,1950
+Le salaire de la peur,208,1953,Thriller,2h 36m,8.1,https://www.imdb.com/title/tt0046268/,156.0,1950
+The General,209,1926,Action,1h 18m,8.1,https://www.imdb.com/title/tt0017925/,78.0,1920
+The General,209,1926,Adventure,1h 18m,8.1,https://www.imdb.com/title/tt0017925/,78.0,1920
+The General,209,1926,Comedy,1h 18m,8.1,https://www.imdb.com/title/tt0017925/,78.0,1920
+Logan,210,2017,Action,2h 17m,8.1,https://www.imdb.com/title/tt3315342/,137.0,2010
+Logan,210,2017,Drama,2h 17m,8.1,https://www.imdb.com/title/tt3315342/,137.0,2010
+Logan,210,2017,Sci-Fi,2h 17m,8.1,https://www.imdb.com/title/tt3315342/,137.0,2010
+Mr. Smith Goes to Washington,211,1939,Comedy,2h 9m,8.1,https://www.imdb.com/title/tt0031679/,129.0,1930
+Mr. Smith Goes to Washington,211,1939,Drama,2h 9m,8.1,https://www.imdb.com/title/tt0031679/,129.0,1930
+Rocky,212,1976,Drama,2h,8.1,https://www.imdb.com/title/tt0075148/,120.0,1970
+Rocky,212,1976,Sport,2h,8.1,https://www.imdb.com/title/tt0075148/,120.0,1970
+On the Waterfront,213,1954,Crime,1h 48m,8.1,https://www.imdb.com/title/tt0047296/,108.0,1950
+On the Waterfront,213,1954,Drama,1h 48m,8.1,https://www.imdb.com/title/tt0047296/,108.0,1950
+On the Waterfront,213,1954,Thriller,1h 48m,8.1,https://www.imdb.com/title/tt0047296/,108.0,1950
+Tôkyô monogatari,214,1953,Drama,2h 17m,8.1,https://www.imdb.com/title/tt0046438/,137.0,1950
+Smultronstället,215,1957,Drama,1h 32m,8.1,https://www.imdb.com/title/tt0050986/,92.0,1950
+Smultronstället,215,1957,Romance,1h 32m,8.1,https://www.imdb.com/title/tt0050986/,92.0,1950
+Pirates of the Caribbean: The Curse of the Black Pearl,216,2003,Action,2h 23m,8.1,https://www.imdb.com/title/tt0325980/,143.0,2000
+Pirates of the Caribbean: The Curse of the Black Pearl,216,2003,Adventure,2h 23m,8.1,https://www.imdb.com/title/tt0325980/,143.0,2000
+Pirates of the Caribbean: The Curse of the Black Pearl,216,2003,Fantasy,2h 23m,8.1,https://www.imdb.com/title/tt0325980/,143.0,2000
+The Third Man,217,1949,Drama,1h 44m,8.1,https://www.imdb.com/title/tt0041959/,104.0,1940
+The Third Man,217,1949,Film-Noir,1h 44m,8.1,https://www.imdb.com/title/tt0041959/,104.0,1940
+The Third Man,217,1949,Mystery,1h 44m,8.1,https://www.imdb.com/title/tt0041959/,104.0,1940
+Spotlight,218,2015,Biography,2h 9m,8.1,https://www.imdb.com/title/tt1895587/,129.0,2010
+Spotlight,218,2015,Crime,2h 9m,8.1,https://www.imdb.com/title/tt1895587/,129.0,2010
+Spotlight,218,2015,Drama,2h 9m,8.1,https://www.imdb.com/title/tt1895587/,129.0,2010
+Maharaja,219,2024,Action,2h 21m,8.3,https://www.imdb.com/title/tt26548265/,141.0,2020
+Maharaja,219,2024,Crime,2h 21m,8.3,https://www.imdb.com/title/tt26548265/,141.0,2020
+Maharaja,219,2024,Drama,2h 21m,8.3,https://www.imdb.com/title/tt26548265/,141.0,2020
+La haine,220,1995,Crime,1h 38m,8.1,https://www.imdb.com/title/tt0113247/,98.0,1990
+La haine,220,1995,Drama,1h 38m,8.1,https://www.imdb.com/title/tt0113247/,98.0,1990
+Jai Bhim,221,2021,Crime,2h 44m,8.6,https://www.imdb.com/title/tt15097216/,164.0,2020
+Jai Bhim,221,2021,Drama,2h 44m,8.6,https://www.imdb.com/title/tt15097216/,164.0,2020
+The Terminator,222,1984,Action,1h 47m,8.1,https://www.imdb.com/title/tt0088247/,107.0,1980
+The Terminator,222,1984,Adventure,1h 47m,8.1,https://www.imdb.com/title/tt0088247/,107.0,1980
+The Terminator,222,1984,Sci-Fi,1h 47m,8.1,https://www.imdb.com/title/tt0088247/,107.0,1980
+The Big Lebowski,223,1998,Comedy,1h 57m,8.1,https://www.imdb.com/title/tt0118715/,117.0,1990
+The Big Lebowski,223,1998,Crime,1h 57m,8.1,https://www.imdb.com/title/tt0118715/,117.0,1990
+The Sound of Music,224,1965,Biography,2h 54m,8.1,https://www.imdb.com/title/tt0059742/,174.0,1960
+The Sound of Music,224,1965,Drama,2h 54m,8.1,https://www.imdb.com/title/tt0059742/,174.0,1960
+The Sound of Music,224,1965,Family,2h 54m,8.1,https://www.imdb.com/title/tt0059742/,174.0,1960
+Det sjunde inseglet,225,1957,Drama,1h 36m,8.1,https://www.imdb.com/title/tt0050976/,96.0,1950
+Det sjunde inseglet,225,1957,Fantasy,1h 36m,8.1,https://www.imdb.com/title/tt0050976/,96.0,1950
+The Best Years of Our Lives,226,1946,Drama,2h 50m,8.1,https://www.imdb.com/title/tt0036868/,170.0,1940
+The Best Years of Our Lives,226,1946,Romance,2h 50m,8.1,https://www.imdb.com/title/tt0036868/,170.0,1940
+The Best Years of Our Lives,226,1946,War,2h 50m,8.1,https://www.imdb.com/title/tt0036868/,170.0,1940
+Room,227,2015,Drama,1h 58m,8.1,https://www.imdb.com/title/tt3170832/,118.0,2010
+Room,227,2015,Thriller,1h 58m,8.1,https://www.imdb.com/title/tt3170832/,118.0,2010
+Koe no Katachi,228,2016,Animation,2h 10m,8.2,https://www.imdb.com/title/tt5323662/,130.0,2010
+Koe no Katachi,228,2016,Drama,2h 10m,8.2,https://www.imdb.com/title/tt5323662/,130.0,2010
+Hotel Rwanda,229,2004,Biography,2h 1m,8.1,https://www.imdb.com/title/tt0395169/,121.0,2000
+Hotel Rwanda,229,2004,Drama,2h 1m,8.1,https://www.imdb.com/title/tt0395169/,121.0,2000
+Hotel Rwanda,229,2004,History,2h 1m,8.1,https://www.imdb.com/title/tt0395169/,121.0,2000
+Platoon,230,1986,Drama,2h,8.1,https://www.imdb.com/title/tt0091763/,120.0,1980
+Platoon,230,1986,War,2h,8.1,https://www.imdb.com/title/tt0091763/,120.0,1980
+Before Sunset,231,2004,Drama,1h 20m,8.1,https://www.imdb.com/title/tt0381681/,80.0,2000
+Before Sunset,231,2004,Romance,1h 20m,8.1,https://www.imdb.com/title/tt0381681/,80.0,2000
+The Incredibles,232,2004,Animation,1h 55m,8.0,https://www.imdb.com/title/tt0317705/,115.0,2000
+The Incredibles,232,2004,Action,1h 55m,8.0,https://www.imdb.com/title/tt0317705/,115.0,2000
+The Incredibles,232,2004,Adventure,1h 55m,8.0,https://www.imdb.com/title/tt0317705/,115.0,2000
+The Exorcist,233,1973,Horror,2h 2m,8.1,https://www.imdb.com/title/tt0070047/,122.0,1970
+Hachi: A Dog&apos;s Tale,234,2009,Biography,1h 33m,8.1,https://www.imdb.com/title/tt1028532/,93.0,2000
+Hachi: A Dog&apos;s Tale,234,2009,Drama,1h 33m,8.1,https://www.imdb.com/title/tt1028532/,93.0,2000
+Hachi: A Dog&apos;s Tale,234,2009,Family,1h 33m,8.1,https://www.imdb.com/title/tt1028532/,93.0,2000
+Rush,235,2013,Biography,2h 3m,8.1,https://www.imdb.com/title/tt1979320/,123.0,2010
+Rush,235,2013,Drama,2h 3m,8.1,https://www.imdb.com/title/tt1979320/,123.0,2010
+Rush,235,2013,Sport,2h 3m,8.1,https://www.imdb.com/title/tt1979320/,123.0,2010
+The Wizard of Oz,236,1939,Adventure,1h 42m,8.1,https://www.imdb.com/title/tt0032138/,102.0,1930
+The Wizard of Oz,236,1939,Family,1h 42m,8.1,https://www.imdb.com/title/tt0032138/,102.0,1930
+The Wizard of Oz,236,1939,Fantasy,1h 42m,8.1,https://www.imdb.com/title/tt0032138/,102.0,1930
+La passion de Jeanne d&apos;Arc,237,1928,Biography,1h 54m,8.1,https://www.imdb.com/title/tt0019254/,114.0,1920
+La passion de Jeanne d&apos;Arc,237,1928,Drama,1h 54m,8.1,https://www.imdb.com/title/tt0019254/,114.0,1920
+La passion de Jeanne d&apos;Arc,237,1928,History,1h 54m,8.1,https://www.imdb.com/title/tt0019254/,114.0,1920
+Stand by Me,238,1986,Adventure,1h 29m,8.1,https://www.imdb.com/title/tt0092005/,89.0,1980
+Stand by Me,238,1986,Comedy,1h 29m,8.1,https://www.imdb.com/title/tt0092005/,89.0,1980
+Stand by Me,238,1986,Drama,1h 29m,8.1,https://www.imdb.com/title/tt0092005/,89.0,1980
+The Iron Giant,239,1999,Animation,1h 26m,8.1,https://www.imdb.com/title/tt0129167/,86.0,1990
+The Iron Giant,239,1999,Action,1h 26m,8.1,https://www.imdb.com/title/tt0129167/,86.0,1990
+The Iron Giant,239,1999,Adventure,1h 26m,8.1,https://www.imdb.com/title/tt0129167/,86.0,1990
+Babam ve Oglum,240,2005,Drama,1h 52m,8.2,https://www.imdb.com/title/tt0476735/,112.0,2000
+Babam ve Oglum,240,2005,Family,1h 52m,8.2,https://www.imdb.com/title/tt0476735/,112.0,2000
+La battaglia di Algeri,241,1966,Drama,2h 1m,8.1,https://www.imdb.com/title/tt0058946/,121.0,1960
+La battaglia di Algeri,241,1966,War,2h 1m,8.1,https://www.imdb.com/title/tt0058946/,121.0,1960
+Ah-ga-ssi,242,2016,Drama,2h 25m,8.1,https://www.imdb.com/title/tt4016934/,145.0,2010
+Ah-ga-ssi,242,2016,Romance,2h 25m,8.1,https://www.imdb.com/title/tt4016934/,145.0,2010
+Ah-ga-ssi,242,2016,Thriller,2h 25m,8.1,https://www.imdb.com/title/tt4016934/,145.0,2010
+Network,243,1976,Drama,2h 1m,8.1,https://www.imdb.com/title/tt0074958/,121.0,1970
+Gangs of Wasseypur,244,2012,Action,5h 21m,8.2,https://www.imdb.com/title/tt1954470/,321.0,2010
+Gangs of Wasseypur,244,2012,Comedy,5h 21m,8.2,https://www.imdb.com/title/tt1954470/,321.0,2010
+Gangs of Wasseypur,244,2012,Crime,5h 21m,8.2,https://www.imdb.com/title/tt1954470/,321.0,2010
+Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,245,2020,Animation,1h 57m,8.2,https://www.imdb.com/title/tt11032374/,117.0,2020
+Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,245,2020,Action,1h 57m,8.2,https://www.imdb.com/title/tt11032374/,117.0,2020
+Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,245,2020,Adventure,1h 57m,8.2,https://www.imdb.com/title/tt11032374/,117.0,2020
+Drishyam,246,2015,Crime,2h 43m,8.2,https://www.imdb.com/title/tt4430212/,163.0,2010
+Drishyam,246,2015,Drama,2h 43m,8.2,https://www.imdb.com/title/tt4430212/,163.0,2010
+Drishyam,246,2015,Mystery,2h 43m,8.2,https://www.imdb.com/title/tt4430212/,163.0,2010
+The Grapes of Wrath,247,1940,Drama,2h 9m,8.1,https://www.imdb.com/title/tt0032551/,129.0,1940
+To Be or Not to Be,248,1942,Comedy,1h 39m,8.1,https://www.imdb.com/title/tt0035446/,99.0,1940
+To Be or Not to Be,248,1942,Romance,1h 39m,8.1,https://www.imdb.com/title/tt0035446/,99.0,1940
+To Be or Not to Be,248,1942,War,1h 39m,8.1,https://www.imdb.com/title/tt0035446/,99.0,1940
+Andhadhun,249,2018,Crime,2h 19m,8.2,https://www.imdb.com/title/tt8108198/,139.0,2010
+Andhadhun,249,2018,Mystery,2h 19m,8.2,https://www.imdb.com/title/tt8108198/,139.0,2010
+Andhadhun,249,2018,Thriller,2h 19m,8.2,https://www.imdb.com/title/tt8108198/,139.0,2010
+Laapataa Ladies,250,2023,Comedy,2h 2m,8.3,https://www.imdb.com/title/tt21626284/,122.0,2020
+Laapataa Ladies,250,2023,Drama,2h 2m,8.3,https://www.imdb.com/title/tt21626284/,122.0,2020
