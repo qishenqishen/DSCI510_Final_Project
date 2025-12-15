@@ -14,7 +14,7 @@ A Descriptive Analysis Across Time, Genre, and Runtime
 
 Project Summary:
 
-This project collects data from the IMDb Top 250 webpage, cleans the data, and creates several visualizations to explore trends such as:
+This project collects data from the IMDb Top 250 webpage, cleans the data, and creates several visualizations to find patterns such as:
 
 ~Ratings across different decade
 
