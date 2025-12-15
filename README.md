@@ -1,7 +1,11 @@
 # DSCI510_Final_Project
 IMDb Top 250 Movie Analysis
 
+
+
 Student: Jiachen Hu / Qi Shen
+
+
 
 Project Name: Rating Patterns in IMDb Top 250 Films:
 A Descriptive Analysis Across Time, Genre, and Runtime
@@ -80,7 +84,7 @@ python src/visualize_results.py
 
 Plots are saved to:
 ```bash
-results/Visualizations.ipynb/
+results/Visualizations.ipynb
 ```
 
 
@@ -100,7 +104,7 @@ github_repo_structure/
 │   ├── run_analysis.py
 │   └── visualize_results.py
 └── results/
-    ├── Visualizations.ipynb/
+    ├── Visualizations.ipynb
     └── final_report.pdf
 ```
 
