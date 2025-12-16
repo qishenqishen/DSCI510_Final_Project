@@ -27,7 +27,7 @@ This project collects data from the IMDb Top 250 webpage, cleans the data, and c
 
 <br />
 
-# 1. Create a virtual environment
+## 1. Create a virtual environment
 
 Mac / Linux:
 python3 -m venv venv
@@ -39,7 +39,7 @@ venv\Scripts\activate
 
 <br />
 
-# 2. Install required libraries
+## 2. Install required libraries
 
 Run the following:
 ```bash
@@ -50,9 +50,9 @@ This installs packages like requests, beautifulsoup4, pandas, and matplotlib.
 
 <br />
 
-# 3. How to Run the Scripts
+## 3. How to Run the Scripts
 
-Step 1 — Collect data
+### Step 1 — Collect data
 ```bash
 python src/get_data.py
 ```
@@ -62,7 +62,7 @@ This script scrapes IMDb Top 250 + each movie page, then saves raw data into:
 data/raw/
 ```
 
-Step 2 — Clean the data
+### Step 2 — Clean the data
 ```bash
 python src/clean_data.py
  ```
@@ -72,14 +72,14 @@ Outputs cleaned data to:
 data/processed/
 ```
 
-Step 3 — Run analysis
+### Step 3 — Run analysis
 ```bash
 python src/run_analysis.py
 ```
 
 Creates decade/genre statistics (CSV files).
 
-Step 4 — Generate visualizations
+### Step 4 — Generate visualizations
 ```bash
 python src/visualize_results.py
 ```
@@ -92,7 +92,7 @@ results/Visualizations.ipynb
 
 <br />
 
-# 4. Project Structure
+## 4. Project Structure
 ```
 github_repo_structure/
 ├── README.md
@@ -116,7 +116,7 @@ github_repo_structure/
 
 <br />
 
-# 5. Outputs
+## 5. Outputs
 
 Clean movie dataset
 
