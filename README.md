@@ -25,7 +25,7 @@ This project collects data from the IMDb Top 250 webpage, cleans the data, and c
 ~Runtime–rating correlation
 
 
-
+<br />
 1. Create a virtual environment
 
 Mac / Linux:
@@ -36,8 +36,7 @@ Windows:
 python -m venv venv
 venv\Scripts\activate
 
-
-
+<br />
 2. Install required libraries
 
 Run the following:
@@ -47,7 +46,7 @@ pip install -r requirements.txt
 This installs packages like requests, beautifulsoup4, pandas, and matplotlib.
 
 
-
+<br />
 3. How to Run the Scripts
 
 Step 1 — Collect data
@@ -88,6 +87,7 @@ results/Visualizations.ipynb
 ```
 
 
+<br />
 
 4. Project Structure
 ```
@@ -111,7 +111,7 @@ github_repo_structure/
 
 
 
-
+<br />
 5. Outputs
 
 Clean movie dataset
